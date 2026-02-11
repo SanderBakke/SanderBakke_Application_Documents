@@ -4,8 +4,8 @@ This repository contains supporting documents for my job applications.
 
 ## Documents
 - **CV (English):** [Sander_Bakke_CV_EN.pdf](./Sander_Bakke_CV_EN.pdf)
-- **Transcript (NTNU):** [Grades_S24.pdf](./Grades_S24.pdf)
+- **Transcript(NTNU) + List of Courses (EURECOM):** [Grades_S24.pdf](./Grades_S6_+_courses_Eurecom)
 - **Letter of Recommendation (Interop AS, 2024):** [Letter_of_Recommendation_Interop.pdf](./Letter_of_Recommendation_Interop.pdf)
-- **EURECOM Course Overview (2024–2025):** [EURECOM_List_of_Courses.pdf](./EURECOM_List_of_Courses.pdf)
+
 
 If any link fails, please let me know at **sander.bakke@gmail.com**.
